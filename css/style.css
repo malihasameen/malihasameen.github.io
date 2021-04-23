@@ -2461,9 +2461,6 @@ label.radios {
 // Medium devices (tablets, 768px and up)
 ============================================================*/
 @media (max-width: 991px){
-  .main_nav{
-    background-color: #818181;
-  }
   .mainbanner_content p{
     width: 71%;
   }
@@ -2624,9 +2621,6 @@ label.radios {
   .banner_title {
       font-size: 18px;
   }
-  .main_nav{
-    background-color: #818181;
-  }
   .sidebar img{
       margin-bottom: 20px;
   }
@@ -2784,9 +2778,6 @@ label.radios {
   .about_myskill h2{
     font-size: 24px;
   }
-  .main_nav{
-    background-color: #818181;
-  }
   .sidebar{
     padding: 30px 10px;
   }
@@ -2905,9 +2896,6 @@ label.radios {
   .about_myself,.education_experience,.video_content,.services,
   .portfolio2,.pricing,.team,.testimonial,.contact,.footer_bottom{
       margin-left: 55px;
-  }
-  .main_nav{
-    background-color: #818181 !important;
   }
   .about_myskill h2 {
       font-size: 24px;
@@ -3160,7 +3148,7 @@ label.radios {
 	background: #a1a1a1;
 	width: 100%;
   margin-top: 1rem;
-	margin-bottom: 6rem;
+	margin-bottom: 5rem;
 	padding: 0;
 	position: relative;
 }
