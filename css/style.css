@@ -1380,7 +1380,7 @@ ul#menu li a{
 .admin{
   border-radius: 30px;
   padding: 5px;
-  display: inline-block;
+  display: block;
   float: left;
 }
 .admin img{
@@ -1636,7 +1636,7 @@ ul#menu li a{
 .breadcrumbs ul li{
     float: left;
     margin-right: 15px;
-    display: inline-block;
+    display: block;
 }
 .breadcrumbs ul li:last-child{
   margin-right: 0px;
@@ -1700,7 +1700,7 @@ nav ul li.page-item{
 
 .blog_details .comments{
     position: relative;
-    display: inline-block;
+    display: block;
     margin-left: 45px;
     font-size: 24px;
     float: left;
